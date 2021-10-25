@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Kanis Rahela Mim
 
 <!--
-**kanismim/kanismim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kanismim/kanismim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Anything
 - 📫 How to reach me: https://www.facebook.com/kanis.mim.7, kanismim075@gmail.com
 
--->
+
